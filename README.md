@@ -135,6 +135,5 @@ While the project brief mentions AES-256, the `cryptography.fernet` library uses
 
 If you specifically need AES-256, you would need to use `cryptography.hazmat.primitives.ciphers` directly instead of Fernet.
 
-## License
 
 This is a benchmark tool for testing purposes.
